@@ -1,10 +1,6 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
-# Javier Dieguez's portfolio
 [sample link](https://guides.github.com/features/mastering-markdown/)
 
 ## Markdown
