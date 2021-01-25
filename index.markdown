@@ -1,12 +1,12 @@
 ---
 layout: home
 ---
-[sample link](https://guides.github.com/features/mastering-markdown/)
 Hello! Welcome to my portfolio. I'm a developer with experience in game technology. 
 Here you'll find relevant info about my work, as well as my hobbies and interests.
 
-<img style="float: right;" src="assets/javismall.png">
-## Markdown
+<img style="float: middle;" src="assets/javi.png">
+
+I am currently working at [Climax studios], 
 Janie
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
