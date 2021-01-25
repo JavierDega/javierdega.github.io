@@ -4,11 +4,15 @@ layout: home
 [sample link](https://guides.github.com/features/mastering-markdown/)
 
 ## Markdown
-
+Janie
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+for (int i = 0; i < 10; i++)
+{
+	bool whatsup = false;
+}
+```
 
 # Header 1
 ## Header 2
@@ -22,6 +26,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+![Image](javismall.png)
 [documentation](https://docs.github.com/categories/github-pages-basics/)
