@@ -20,10 +20,10 @@ on them.
 <br/>
 <br/>
 <br/>
-Outside coding, dance has been my hobby for a long time, and it guides my interest in motion capture technologies and analyzing realistic human motion.  
+Outside coding, dance has been my biggest hobby for a long time, and it guides my interest in motion capture technologies and analyzing realistic human motion.  
 I like playing the drums and other percussion instruments, when the former in unwise for my neighbours.  
 I love gaming and understanding the fun in experimental and indie games, like ABZU, Return of the Obra Dinn, The Witness.. and have recently started gaming on
 Oculus Quest 2.  
 At last I'm an avid The Walking Dead follower.  
 
-That should be most of it! Find my social links below, and feel free to have a look at my various posts.
+That should be most of it! Find my contact / social links below, and feel free to have a look at my posts.

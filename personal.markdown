@@ -3,7 +3,9 @@ layout: page
 title: Personal
 permalink: /personal/
 ---
-## Climax Studios (May 2019 - Present)
+Intro bla bla bla i do stuff
+## PiP - 2D Physics Solver
+<img style="float: middle;" src="../assets/PiPScreenGrab.png" alt="PiP" title="PiP">
 I have taken part in several small scale codevelopment teams, contributing
 to big AAA projects.  
 I started writing multiplayer code for [Returnal](https://www.youtube.com/results?search_query=Returnal), accomodating single player
