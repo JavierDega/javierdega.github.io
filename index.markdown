@@ -3,6 +3,14 @@ layout: home
 ---
 Hello! Welcome to my portfolio. I'm a developer with an emphasis in game technology. 
 Here you'll find relevant info about my work, as well as my hobbies and interests. 
+<html>
+  <head>
+    <title>Javier Dieguez's CV</title>
+  </head>
+  <body>
+    <p><a href="../assets/CV.pdf">Curriculum Vitae</a></p>
+  </body>
+</html>
 I started coding and developing games when I was 15 using Game Maker, and I now have keen interest in game physics, motion capture and simulation. 
 
 <img style="float: right; padding-left: 10px" src="assets/javi.png" alt="Me" title="Me" width="300" height="300">

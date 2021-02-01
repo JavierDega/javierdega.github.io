@@ -3,6 +3,14 @@ layout: page
 title: Professional
 permalink: /professional/
 ---
+<html>
+  <head>
+    <title>Javier Dieguez's CV</title>
+  </head>
+  <body>
+    <p><a href="../assets/CV.pdf">Find my CV here</a></p>
+  </body>
+</html>
 ## Climax Studios (May 2019 - Present) - Programmer
 I have taken part in several small scale codevelopment teams, contributing
 to AAA projects.  
