@@ -1,7 +1,7 @@
 ---
 layout: post
 title: " Puzzle Bobble: Scoring points (Ball Chains) "
-categories: junk
+categories:
 author:
 - Javier Dieguez
 meta: "Springfield"
@@ -16,4 +16,4 @@ This project started as a university hand-in; I really wanted to get an entire g
 
 ## What is a Hex Grid?
 Well...something like what this crappy drawing is trying to illustrate.
-<img style="float: middle;" src="../assets/HexGrid.png" alt="hex" title="hex">
+<img style="float: middle;" src="_assets/HexGrid.png" alt="hexgrid" title="hexgrid">

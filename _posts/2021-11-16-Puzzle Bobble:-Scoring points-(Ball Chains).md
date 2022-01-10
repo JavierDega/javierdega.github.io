@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hexagonal Grids! A Puzzle Bobble Tutorial"
-categories: junk
+categories:
 author:
 - Javier Dieguez
 meta: "Springfield"
