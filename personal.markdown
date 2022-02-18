@@ -13,7 +13,7 @@ I've done several smaller things throughout the years, some of which are probabl
 [PiP](https://github.com/JavierDega/PiP) is an open source 2D physics solver I built in my spare time during my first couple years doing gamedev.  
 It supports circles, capsules and oriented boxes. It has a bunch of settings to customize runtime behavior, display debug
 info and edit bodies at runtime. One core idea I've enjoyed thorougly throughout development is the ability to change between
-fixed and floating point numerical methods with one compiler flag, 'USE_FIXEDPOINT' in 'PiPMath.h'.  
+fixed and floating point numerical methods with one compiler flag, 'USE_FIXEDPOINT' in 'PiPMath.h'. This is done by compiling a [fixed point library](https://gitlab.com/DixieDev/fixed-point-lib) made by a friend, Anthony Arian.  
 It uses CMake for build generation and it runs on Windows and Linux, tested with Visual Studio code.
 - C++
 - Graphics, windowing, input (OpenGL, [glew](http://glew.sourceforge.net/), [glfw](https://www.glfw.org/)).
