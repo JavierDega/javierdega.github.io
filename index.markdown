@@ -14,7 +14,7 @@ Here you'll find relevant info about my work, as well as my hobbies and interest
 
 I started making games when I was 15 using YoYo Game's [GameMaker Studio](https://www.yoyogames.com/es/gamemaker) (1.4 at the time). I have keen interest in game physics, motion capture and simulation. 
 
-<img style="float: center; padding-left: 10px" src="assets/javi.png" alt="Me" title="Me" width="300" height="300">
+<img style="display: block; margin-left: auto; margin-right: auto; float: center; padding-left: 0px" src="assets/javi.png" alt="Me" title="Me" width="300" height="300">
 
 I am currently working at [Climax Studios](http://www.climaxstudios.com/), where I take part on several small teams creating game features
 for external clients.  
