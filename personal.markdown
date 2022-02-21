@@ -25,11 +25,11 @@ It uses CMake for build generation and runs on Windows and Linux, tested with Vi
 
 Retro styled point & click adventure game like Thimbleweed Park, Maniac Mansion,... Made in UE4.
 
-<img style="float: middle;" src="../assets/awakenalone.png" alt="aa" title="aa" width="350">
-<img style="float: middle;" src="../assets/awakenalone2.png" alt="aa" title="aa" width="350">
+<img style="float: middle;" src="../assets/awakenalone.png" alt="aa" title="aa" width="49%" >
+<img style="float: middle;" src="../assets/awakenalone2.png" alt="aa" title="aa" width="50%" >
 <br/>  
 
-As an assisting coder, I came in to implement common item interactions (Look, pick up, use, open, combine,..) in blueprint code and fill in the interaction dialogue for the hundreds of items in the spec.
+As an assisting coder, I came in to implement common item interactions (Look, pick up, use, open, combine,..) in blueprint code and fill in the interaction dialogue for the hundreds of items in the spec.  
 
 <iframe width="702" height="395" src="https://www.youtube.com/embed/5Zbs8JyTVhM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 <br/>

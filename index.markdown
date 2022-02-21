@@ -26,8 +26,8 @@ I've made some homebrew games for [Wii](https://www.youtube.com/watch?v=_IwZnQj_
 on them.  
 
 <br/>
-Outside computers, dance has been a long time favored activity of mine, and it guides my interest in mocap technologies and analyzing realistic human motion.  
-I like playing the drums sporadically. I love understanding the fun in 'experimental' games like 'ABZU', 'The Witness', 'Manifold Garden',.. and the new ways of interacting with games through VR (I have a Quest 2).  
+Outside computers, dance has been a long time favored activity of mine, it guides my interest in mocap technologies and analyzing realistic human motion.  
+I like playing the drums sporadically. I love understanding the fun in 'experimental' games like ABZU, The Witness, Manifold Garden,.. and the new ways of interacting with games through VR with my Quest 2.  
 I dont watch many TV shows but I've been an avid The Walking Dead fan for a while :)
 
 That should be most of it!  
