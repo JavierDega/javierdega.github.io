@@ -21,7 +21,7 @@ It uses CMake for build generation and runs on Windows and Linux, tested with Vi
 - UI ([ImGui](https://github.com/ocornut/imgui)).
 - Unit testing ([catch2](https://github.com/catchorg/Catch2) single header version).  
 
-### [Awaken Alone](https://www.omnidigitaltechnologies.co.uk/awakenalone) (September - October 2020)  
+### [Omni Digital technologies](https://www.omnidigitaltechnologies.co.uk/) - [Awaken Alone](https://www.omnidigitaltechnologies.co.uk/awakenalone) (September - October 2020)  
 
 Retro styled point & click adventure game like Thimbleweed Park, Maniac Mansion,... Made in UE4.
 
@@ -31,12 +31,12 @@ Retro styled point & click adventure game like Thimbleweed Park, Maniac Mansion,
 
 As an assisting coder, I came in to implement common item interactions (Look, pick up, use, open, combine,..) in blueprint code and fill in the interaction dialogue for the hundreds of items in the spec.  
 
-<iframe width="702" height="395" src="https://www.youtube.com/embed/5Zbs8JyTVhM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="100%" height=395 src="https://www.youtube.com/embed/5Zbs8JyTVhM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 <br/>
 
 Wake up as the sole survivor of "Artemis Agroterra III" and piece together what happened by solving puzzles, interacting and wrangling together various items.
 
-<iframe width="702" height="395" src="https://www.youtube.com/embed/aiiAYbPAASs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="100%" height=395 src="https://www.youtube.com/embed/aiiAYbPAASs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 <br/>
 
 Awaken Alone is out as a prototype on [itch.io](https://omni-digital.itch.io/awakenalone), we're currently fixing the previous Android version after an API update made it break Google Play Store's TRCs.  
@@ -48,10 +48,10 @@ The result was a retro styled [GBA puzzle bobble clone](https://github.com/Javie
 [voxel based 3D pool game](https://github.com/JavierDega/VoxelPool_Wii) for the Wii using the Wiimote's motion controls.  
 I made everything for these except the main track for the Wii, [Pool Hall Jam](https://soundcloud.com/omnidigital/pool-hall-jam) by Ollie Plaatsman from [omni-digital technologies](https://www.omnidigitaltechnologies.co.uk/).  
 
-<iframe width="702" height="395" src="https://www.youtube.com/embed/nBaU7Xpso-Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="395" src="https://www.youtube.com/embed/nBaU7Xpso-Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>  
 
-<iframe width="702" height="395" src="https://www.youtube.com/embed/_IwZnQj_zqE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="395" src="https://www.youtube.com/embed/_IwZnQj_zqE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>  
 
 They taught me various things, such as:

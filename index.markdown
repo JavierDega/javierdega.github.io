@@ -16,7 +16,7 @@ I started making games when I was 15 using YoYo Game's [GameMaker Studio](https:
 <img style="display: block; margin-left: auto; margin-right: auto; float: center; padding-left: 0px" src="assets/javi.png" alt="Me" title="Me" width="300" height="300">
 <br/>  
 
-I am currently working on '[Psycasso: A Disturbingly Creative Adventure](https://www.omnidigitaltechnologies.co.uk/psycasso)' with omni-digital technologies, where I develop experimental gameplay features for the core game, and help with architecting game systems, mentoring and maintaining documentation.
+I am currently working on '[Psycasso: A Disturbingly Creative Adventure](https://www.omnidigitaltechnologies.co.uk/psycasso)' with [omni-digital technologies](https://www.omnidigitaltechnologies.co.uk/psycasso), where I develop experimental gameplay features for the core game, and help with architecting game systems, mentoring and maintaining documentation.
 
 I tend to be hacking at some coding project to widen my knowledge, and I am currently working on Godot engine to build a VR game using both GDNative C++ and GDScript.
 

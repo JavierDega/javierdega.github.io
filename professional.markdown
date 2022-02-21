@@ -11,7 +11,7 @@ permalink: /professional/
 
 ## Freelance (April 2021 - Present)
 
-I have taken freelance dev work since april 2021, taking part in different projects, from full stack web work to gamedev both in Unity and Unreal Engine.
+I have taken some freelance contracts since april 2021, doing game development and full stack web work.
 
 ### [Talentum Digital](https://talentumdigital.com/) - [Ku Cycle](https://www.ku-cycle.com/) Site (July - October 2021) - Full Stack Developer
 
@@ -21,29 +21,30 @@ We used wordpress along with many inherited plugins, namely WooCommerce for stor
 <img style="float: middle;" src="../assets/kucycle.png" alt="kucycle" title="kucycle">
 <br/>
 
-### [Omni Digital technologies](https://www.omnidigitaltechnologies.co.uk/) - [Psycasso](https://www.omnidigitaltechnologies.co.uk/psycasso) (April 2021 - Present) Game Developer
+### [Omni Digital technologies](https://www.omnidigitaltechnologies.co.uk/) - [Psycasso](https://www.omnidigitaltechnologies.co.uk/psycasso) (April 2021 - Present) - Game Developer
 
 <img style="float: middle;" src="../assets/psycasso.png" alt="psycasso" title="psycasso">
 <br/>  
 
-Ollie Plaatsman, founder of omni-digital technologies, has been a friend of mine since university, and we have collaborated on numerous little games as a hobby (hes made the music for my [homebrew wii](https://www.youtube.com/watch?v=_IwZnQj_zqE) game, we collaborated on [Awaken Alone](https://www.omnidigitaltechnologies.co.uk/awakenalone),..); As time went on, we started collaborating on more fully fledged games.  
+Ollie Plaatsman, founder of omni-digital technologies, has been a friend of mine since university, and we have collaborated on some little games as a hobby (hes made the music for my [homebrew wii](https://www.youtube.com/watch?v=_IwZnQj_zqE) game, we collaborated on [Awaken Alone](https://www.omnidigitaltechnologies.co.uk/awakenalone),..); As time went on, we started doing more fully fledged games.  
 
-I'm one of the lead coders in 'Psycasso: A Disturbingly Creative Adventure', working on experimental gameplay elements of the core project. As a team lead, I wrote the architecture for key game systems and maintain its documentation; I consult with other devs to make sure these systems interact correctly and the development workflow remains fluid, as well as mentor when someone needs to take up tasks in a different area.  
-We work in Unity.  
+I'm one of the lead coders in 'Psycasso: A Disturbingly Creative Adventure', working on experimental gameplay elements of the core project. As a team lead, I write the architecture for key game systems and maintain its documentation; I consult with other devs to make sure these systems interact correctly and the development workflow remains fluid, as well as mentor when someone needs to take up tasks in a different area.  
+We work in Unity.    
 
 ## [Climax Studios](https://www.climaxstudios.com/) (May 2019 - April 2021) - Coder
 
-I have taken part in several small scale codevelopment teams, contributing to AAA projects.
+I have taken part in several small scale codevelopment teams, contributing to AAA projects.  
+
 I started writing multiplayer code for [Returnal](https://www.youtube.com/watch?v=90njPwI8xNs), accomodating gameplay features for a networked environment (May 2019 - June 2020).
 
-<iframe width="702" height="395" src="https://www.youtube.com/embed/ov4fJmGCsZM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-<br/>
+<iframe width="100%" height="395" src="https://www.youtube.com/embed/ov4fJmGCsZM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<br/>  
 
 I was then moved to help [Destruction All Stars](https://www.youtube.com/watch?v=nNO1k5NCDOk&ab_channel=PlayStation)
-achieve a standard of accessibility features expected on Sony's platform (July 2020 - October 2020).
+achieve a standard of accessibility features expected on Sony's platform (July 2020 - October 2020).  
 
-<iframe width="702" height="395" src="https://www.youtube.com/embed/6kP3G5vO49A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br/>
+<iframe width="100%" height="395" src="https://www.youtube.com/embed/6kP3G5vO49A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>  
 
 Then I came back on Returnal to bring in those same accessibility standards before launch (October 2020 - April 2021), making the game more approachable for all audiences.
 
