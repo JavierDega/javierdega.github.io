@@ -21,36 +21,15 @@ We used wordpress along with many inherited plugins, namely WooCommerce for stor
 <img style="float: middle;" src="../assets/kucycle.png" alt="kucycle" title="kucycle">
 <br/>
 
-### [Omni Digital technologies](https://www.omnidigitaltechnologies.co.uk/) - Game Developer
-
-Ollie Plaatsman, founder of omni-digital technologies, has been a friend of mine since university, and we have collaborated on numerous little games as a hobby (for example, hes made the music for my [homebrew wii](https://www.youtube.com/watch?v=_IwZnQj_zqE) game!); As time went on, we started collaborating on more fully fledged games.
-
-#### [Psycasso](https://www.omnidigitaltechnologies.co.uk/psycasso) (April 2021 - Present)
+### [Omni Digital technologies](https://www.omnidigitaltechnologies.co.uk/) - [Psycasso](https://www.omnidigitaltechnologies.co.uk/psycasso) (April 2021 - Present) Game Developer
 
 <img style="float: middle;" src="../assets/psycasso.png" alt="psycasso" title="psycasso">
-<br/>
+<br/>  
+
+Ollie Plaatsman, founder of omni-digital technologies, has been a friend of mine since university, and we have collaborated on numerous little games as a hobby (hes made the music for my [homebrew wii](https://www.youtube.com/watch?v=_IwZnQj_zqE) game, we collaborated on [Awaken Alone](https://www.omnidigitaltechnologies.co.uk/awakenalone),..); As time went on, we started collaborating on more fully fledged games.  
+
 I'm one of the lead coders in 'Psycasso: A Disturbingly Creative Adventure', working on experimental gameplay elements of the core project. As a team lead, I wrote the architecture for key game systems and maintain its documentation; I consult with other devs to make sure these systems interact correctly and the development workflow remains fluid, as well as mentor when someone needs to take up tasks in a different area.  
-We work in Unity.
-
-#### [Awaken Alone](https://www.omnidigitaltechnologies.co.uk/awakenalone) (September - October 2020)
-
-Retro styled point & click adventure game like Thimbleweed Park, Maniac Mansion,... Made in UE4.
-
-<img style="float: middle;" src="../assets/awakenalone.png" alt="aa" title="aa" width="350">
-<img style="float: middle;" src="../assets/awakenalone2.png" alt="aa" title="aa" width="350">
-<br/>
-
-As an assisting coder, I came in to help implement common item interactions (Look, pick up, use, open, combine,..) in blueprint code and fill in the interaction dialogue for the hundreds of items in the spec.
-
-<iframe width="702" height="395" src="https://www.youtube.com/embed/5Zbs8JyTVhM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-<br/>
-
-Wake up as the sole survivor of "Artemis Agroterra III" and piece together what happened by solving puzzles, interacting and wrangling together various items.
-
-<iframe width="702" height="395" src="https://www.youtube.com/embed/aiiAYbPAASs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-<br/>
-
-Awaken Alone is out as a prototype on [itch.io](https://omni-digital.itch.io/awakenalone), we're currently fixing the previous Android version after an API update made it break Google Play Store's TRCs. 
+We work in Unity.  
 
 ## [Climax Studios](https://www.climaxstudios.com/) (May 2019 - April 2021) - Coder
 
