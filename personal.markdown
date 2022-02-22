@@ -8,8 +8,8 @@ I've done several smallish things through the years, some of which are probably 
 
 ## [PiP - 2D Physics Solver](https://github.com/JavierDega/PiP)  
 
-<img style="float: middle;" src="../assets/PiPScreenGrab.png" alt="PiP" title="PiP">
-<br/>  
+<iframe width="100%" height="395" src="https://www.youtube.com/embed/kfobE3O5B7Y" title="pip youtube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>   
 
 [PiP](https://github.com/JavierDega/PiP) is an open source 2D physics solver I built in my spare time during a couple of years, and I try to maintain.  
 It supports circles, capsules and oriented boxes. It has a bunch of settings to customize runtime behavior, display debug

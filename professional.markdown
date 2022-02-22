@@ -33,7 +33,7 @@ We work in Unity.
 
 ## [Climax Studios](https://www.climaxstudios.com/) (May 2019 - April 2021) - Coder
 
-I have taken part in several small scale codevelopment teams, contributing to AAA projects.  
+I have taken part in several small scale codevelopment teams for AAA projects.  
 
 I started writing multiplayer code for [Returnal](https://www.youtube.com/watch?v=90njPwI8xNs), accomodating gameplay features for a networked environment (May 2019 - June 2020).
 
