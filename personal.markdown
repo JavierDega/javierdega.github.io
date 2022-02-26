@@ -41,7 +41,7 @@ Wake up as the sole survivor of "Artemis Agroterra III" and piece together what 
 
 Awaken Alone is out as a prototype on [itch.io](https://omni-digital.itch.io/awakenalone), we're currently fixing the previous Android version after an API update made it break Google Play Store's TRCs.  
 
-## Homebrew dev  
+## Homebrew dev
 
 Throughout uni I became a fan of the [devKitPro](https://devkitpro.org/) toolchain for homebrew game development, so I used it to create a couple artefacts.   
 The result was a retro styled [GBA puzzle bobble clone](https://github.com/JavierDega/Gba-Puzzle-Bobble), and a 
