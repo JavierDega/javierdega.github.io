@@ -11,7 +11,7 @@ permalink: /professional/
 
 ## Freelance (April 2021 - Present)
 
-I have taken some freelance contracts since april 2021, doing game development and full stack web work.
+I have taken some freelance contracts since april 2021, doing game dev and full stack web work.
 
 ### [Talentum Digital](https://talentumdigital.com/) - [Ku Cycle](https://www.ku-cycle.com/) Site (July - October 2021) - Full Stack Developer
 
@@ -38,6 +38,9 @@ I have taken part in several small scale codevelopment teams for AAA projects.
 I started writing multiplayer code for [Returnal](https://www.youtube.com/watch?v=90njPwI8xNs), accomodating gameplay features for a networked environment (May 2019 - June 2020).
 
 <iframe width="100%" height="395" src="https://www.youtube.com/embed/ov4fJmGCsZM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<br/>  
+
+<iframe width="100%" height="395" src="https://www.youtube.com/embed/WR7lm5oEoVg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 <br/>  
 
 I was then moved to help [Destruction All Stars](https://www.youtube.com/watch?v=nNO1k5NCDOk&ab_channel=PlayStation)

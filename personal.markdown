@@ -4,7 +4,7 @@ title: Personal
 permalink: /personal/
 ---
 
-I've done several smallish things through the years, some of which are probably hinted at on my [youtube channel](https://www.youtube.com/channel/UCvBTH-OXl4d4M_MIVpegrpQ), but I consider these my highlights, hope you enjoyed!  
+I've done several smallish things through the years, some of which are probably hinted at on my [youtube](https://www.youtube.com/channel/UCvBTH-OXl4d4M_MIVpegrpQ) channel or [itch.io](https://javierdega.itch.io/), but I consider these my highlights, hope you enjoyed!  
 
 ## [PiP - 2D Physics Solver](https://github.com/JavierDega/PiP)  
 
@@ -21,25 +21,25 @@ It uses CMake for build generation and runs on Windows and Linux, tested with Vi
 - UI ([ImGui](https://github.com/ocornut/imgui)).
 - Unit testing ([catch2](https://github.com/catchorg/Catch2) single header version).  
 
-### [Omni Digital technologies](https://www.omnidigitaltechnologies.co.uk/) - [Awaken Alone](https://www.omnidigitaltechnologies.co.uk/awakenalone) (September - October 2020)  
+### [Omni Digital technologies](https://www.omnidigitaltechnologies.co.uk/) - [Awaken Alone](https://www.omnidigitaltechnologies.co.uk/awakenalone)  
 
-Retro styled point & click adventure game like Thimbleweed Park, Maniac Mansion,... Made in UE4.
+Retro styled point & click adventure game like Thimbleweed Park, Maniac Mansion,.. Made in UE4.
+Wake up as the sole survivor of "Artemis Agroterra III" and piece together what happened by solving puzzles, interacting and wrangling together various items.  
 
 <img style="float: middle;" src="../assets/awakenalone.png" alt="aa" title="aa" width="49%" >
 <img style="float: middle;" src="../assets/awakenalone2.png" alt="aa" title="aa" width="50%" >
 <br/>  
-
-As an assisting coder, I came in to implement common item interactions (Look, pick up, use, open, combine,..) in blueprint code and fill in the interaction dialogue for the hundreds of items in the spec.  
-
-<iframe width="100%" height=395 src="https://www.youtube.com/embed/5Zbs8JyTVhM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-<br/>
-
-Wake up as the sole survivor of "Artemis Agroterra III" and piece together what happened by solving puzzles, interacting and wrangling together various items.
+  
+I initially helped implement common item interactions in UE4 Blueprints, and filled in the text popups for the hundreds of items in the spec. More recently I came in to fix
+cutscene and advertising issues, as well as UI scaling for different devices, so the game could remain up on the Play Store.
 
 <iframe width="100%" height=395 src="https://www.youtube.com/embed/aiiAYbPAASs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-<br/>
+<br/>  
 
-Awaken Alone is out as a prototype on [itch.io](https://omni-digital.itch.io/awakenalone), we're currently fixing the previous Android version after an API update made it break Google Play Store's TRCs.  
+<iframe width="100%" height=395 src="https://www.youtube.com/embed/5Zbs8JyTVhM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<br/>  
+
+Awaken Alone is out as a prototype on [itch.io](https://omni-digital.itch.io/awakenalone), and [Google Play Store](https://play.google.com/store/apps/details?id=com.OmniDigitalTechnology.AwakenAlone_2022&gl=ES)
 
 ## Homebrew dev
 
@@ -60,6 +60,6 @@ They taught me various things, such as:
 - Plugging in assembly code to your C code (GBA uses ARM Assembly THUMB2 for some recurring functions).
 - Game physics.  
 
-I wrote some [devlogs](https://javierdega.github.io/2019/02/26/Puzzle-Bobble.html) on the GBA game 'Haunted Bobble'.
+I wrote some [stuff](https://javierdega.github.io/2019/02/26/Puzzle-Bobble.html) on the GBA game 'Haunted Bobble'.
 You can run both games by plugging in the appropriate output file in the repository (.gba, .dol) into your emulator of choice, as running it on hardware would not be legal!
 

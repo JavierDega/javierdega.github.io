@@ -7,10 +7,7 @@ author:
 meta: "Springfield"
 ---
 
-## Intro  
-
-I know it's been a while but I've been busy getting on with my final year, I need to make sure I can get a job after this, or there will be no point to all this devlogs!  
-Here's the second tutorial related to my GBA Puzzle Bobble clone, and I will discuss arguably the hardest feature to develop; Coming up with a solution to detect ball groups of three or more, that share the same colour value. Not only that, but its sister algorithm; One to detect the balls that are left hanging, ran only if we have just deleted three (or more) balls and scored some points.
+I know it's been a while but I've been busy getting on with my final year at uni. Here's the second tutorial related to my GBA Puzzle Bobble clone, and I will discuss arguably the hardest feature to develop; Coming up with a solution to detect ball groups of three or more, that share the same colour value. Not only that, but its sister algorithm; One to detect the balls that are left hanging, ran only if we have just deleted three (or more) balls and scored some points.
 
 I will discuss the dangers of recursion and the benefits of storing your data in an intuitive manner, as well as coming up with your own structs to match your logic.
 
