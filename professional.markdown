@@ -5,7 +5,7 @@ permalink: /professional/
 ---
 <html>
   <body>
-    <p><a href="../assets/CV.pdf">Find my CV here</a></p>
+    <p><a href="../assets/CV.pdf">CV</a></p>
   </body>
 </html>
 
