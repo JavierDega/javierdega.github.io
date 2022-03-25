@@ -25,10 +25,8 @@ I've made some homebrew games for [Wii](https://www.youtube.com/watch?v=_IwZnQj_
 [devlogs](https://javierdega.blogspot.com/2018/09/hexagonal-grids-puzzle-bobble-tutorial.html?fbclid=IwAR0x6NKrEkfKzl65QVb0iXNltSbYM7gPyHuLH1_Ioy3yoturTWitE3YH3gg)
 on them.  
 
-<br/>
-Outside computers, dance has been a long time favored activity of mine, it guides my interest in mocap technologies and analyzing realistic human motion.  
-I like playing the drums sporadically. I love understanding the fun in 'experimental' games like ABZU, The Witness, Manifold Garden,.. and the new ways of interacting with games through VR with my Quest 2.  
+Outside computers, dance has been a long time favored activity of mine, it guides my interest in mocap technologies and analyzing realistic human motion. I like playing the drums sporadically. I love understanding the fun in 'experimental' games like ABZU, The Witness, Manifold Garden,.. and the new ways of interacting with games through VR with my Quest 2.  
 I dont watch many TV shows but I've been an avid The Walking Dead fan for a while :)
 
 That should be most of it about me!  
-Find my contact / social links below, and feel free to have a look at my posts.
+Find my contact / social links at the bottom, and feel free to have a look at my posts.

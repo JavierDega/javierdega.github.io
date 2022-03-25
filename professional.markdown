@@ -28,7 +28,7 @@ We used wordpress along with many inherited plugins, namely WooCommerce for stor
 
 Ollie Plaatsman, founder of omni-digital technologies, has been a friend of mine since university, and we have collaborated on some little games as a hobby (hes made the music for my [homebrew wii](https://www.youtube.com/watch?v=_IwZnQj_zqE) game, we collaborated on [Awaken Alone](https://www.omnidigitaltechnologies.co.uk/awakenalone),..); As time went on, we started doing more fully fledged games.  
 
-I'm one of the lead coders in 'Psycasso: A Disturbingly Creative Adventure', working on experimental gameplay elements of the core project. As a team lead, I write the architecture for key game systems and maintain its documentation; I consult with other devs to make sure these systems interact correctly and the development workflow remains fluid, as well as mentor when someone needs to take up tasks in a different area.
+I'm one of the developers in 'Psycasso: A Disturbingly Creative Adventure', working on experimental gameplay elements of the core project. As a team lead, I write the architecture for key game systems and maintain its documentation; I consult with other devs to make sure these systems interact correctly and the development workflow remains fluid, as well as mentor when someone needs to take up tasks in a different area.
 We work in Unity.    
 
 ## [Climax Studios](https://www.climaxstudios.com/) (May 2019 - April 2021) - Coder

@@ -4,24 +4,25 @@ title: Personal
 permalink: /personal/
 ---
 
-I've done several smallish things through the years, some of which are probably hinted at on my [youtube](https://www.youtube.com/channel/UCvBTH-OXl4d4M_MIVpegrpQ) channel or [itch.io](https://javierdega.itch.io/), but I consider these my highlights, hope you enjoyed!  
+I've done several smallish things through the years, some of which are probably hinted at on my [youtube](https://www.youtube.com/channel/UCvBTH-OXl4d4M_MIVpegrpQ) channel or [itch.io](https://javierdega.itch.io/); consider these my highlights, hope you enjoyed!  
 
 ## [PiP - 2D Physics Solver](https://github.com/JavierDega/PiP)  
 
 <iframe width="100%" height="395" src="https://www.youtube.com/embed/kfobE3O5B7Y" title="pip youtube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>   
 
-[PiP](https://github.com/JavierDega/PiP) is an open source 2D physics solver I built in my spare time during a couple of years, and I try to maintain.  
-It supports circles, capsules and oriented boxes. It has a bunch of settings to customize runtime behavior, display debug
-info and edit bodies at runtime. One core idea I've enjoyed thoroughly is the ability to change between
-fixed and floating point numerical methods with one compiler flag, 'USE_FIXEDPOINT' in 'PiPMath.h'. This is done by compiling a [fixed point library](https://gitlab.com/DixieDev/fixed-point-lib) made by a friend, Anthony Arian.  
+[PiP](https://github.com/JavierDega/PiP) is an open source 2D physics solver I built in my spare time during a couple of years, which I now try to maintain.  
+It supports circles, capsules and oriented boxes. It has a bunch of settings to customize runtime behavior, display debug info and edit bodies at runtime. One core idea 
+I've enjoyed thoroughly is the ability to change between fixed and floating point numerical methods with one compiler flag, 'USE_FIXEDPOINT' in 'PiPMath.h'. This is done
+by compiling a [fixed point library](https://gitlab.com/DixieDev/fixed-point-lib) made by a friend, Anthony Arian.  
+
 It uses CMake for build generation and runs on Windows and Linux, tested with Visual Studio code.
 - C++
 - Graphics, windowing, input (OpenGL, [glew](http://glew.sourceforge.net/), [glfw](https://www.glfw.org/)).
 - UI ([ImGui](https://github.com/ocornut/imgui)).
 - Unit testing ([catch2](https://github.com/catchorg/Catch2) single header version).  
 
-### [Omni Digital technologies](https://www.omnidigitaltechnologies.co.uk/) - [Awaken Alone](https://www.omnidigitaltechnologies.co.uk/awakenalone)  
+## [Omni Digital technologies](https://www.omnidigitaltechnologies.co.uk/) - [Awaken Alone](https://www.omnidigitaltechnologies.co.uk/awakenalone)  
 
 Retro styled point & click adventure game like Thimbleweed Park, Maniac Mansion,.. Made in UE4.
 Wake up as the sole survivor of "Artemis Agroterra III" and piece together what happened by solving puzzles, interacting and wrangling together various items.  
@@ -63,3 +64,12 @@ They taught me various things, such as:
 I wrote some [stuff](https://javierdega.github.io/2019/02/26/Puzzle-Bobble.html) on the GBA game 'Haunted Bobble'.
 You can run both games by plugging in the appropriate output file in the repository (.gba, .dol) into your emulator of choice, as running it on hardware would not be legal!
 
+## Gamejams
+
+### [LD48: Deeper and Deeper](https://javierdega.itch.io/ld48-journey-to-the-center-of-the-mind)
+
+'Journey to the center of the mind' is a surreal endless faller we built in a weekend as a team of 3 for ld48. I ended up quite pleased with the visual style of it!  
+Made with Victor Prudhomme and Ollie Plaatsman.  
+
+<img style="float: middle;" src="../assets/ld48.png" title="ld48">
+<br/>  
