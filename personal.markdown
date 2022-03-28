@@ -32,7 +32,7 @@ Wake up as the sole survivor of "Artemis Agroterra III" and piece together what 
 <br/>  
   
 I initially helped implement common item interactions in UE4 Blueprints, and filled in the text popups for the hundreds of items in the spec. More recently I came in to fix
-cutscene and advertising issues, as well as UI scaling for different devices, so the game could remain up on the Play Store.
+cutscene and advertising issues, as well as UI scaling for different devices, so the game could remain up on the [Play Store](https://play.google.com/store/apps/details?id=com.OmniDigitalTechnology.AwakenAlone_2022&gl=ES).
 
 <iframe width="100%" height=395 src="https://www.youtube.com/embed/aiiAYbPAASs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 <br/>  
